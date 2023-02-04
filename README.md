@@ -15,3 +15,4 @@ Unity **Game** Developer, Strict **OOP** Researcher
 ## **Contacts**
 [![VK](https://img.shields.io/badge/-Vkontakte-090900?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/yusubov7)
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://web.telegram.org/k/#@Vadimovon)
+[![Discord](https://img.shields.io/badge/-Discord-090900?style=for-the-badge&logo=discord&logoColor=sky)](https://discordapp.com/users/Vadimovich#7939)
