@@ -3,7 +3,6 @@
 **Unity Game Developer, Strict OOP Researcher**
 
 ## **Skills**
-
 ![Unity](https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity)
 <img src ="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=crimson&color=black"/>&nbsp;
 <img src ="https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=8333FF">
@@ -14,7 +13,6 @@
 <img src ="https://img.shields.io/badge/-Visual Studio-090900?style=for-the-badge&logo=visualstudio&logoColor=8333FF">
 
 ## **Statistics**
-
 ![Farid's stats](https://github-readme-stats.vercel.app/api?username=Farid357&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Farid357&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farid357&layout=compact&theme=tokyonight)
