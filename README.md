@@ -12,9 +12,6 @@
 <img src ="https://img.shields.io/badge/-Github-090900?style=for-the-badge&logo=github&logoColor=white">
 <img src ="https://img.shields.io/badge/-Visual Studio-090900?style=for-the-badge&logo=visualstudio&logoColor=8333FF">
 
-## **Trophies**
-![trophy](https://github-profile-trophy.vercel.app/?username=Farid357&theme=algolia)
-
 ## **Statistics**
 ![Farid's stats](https://github-readme-stats.vercel.app/api?username=Farid357&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Farid357&theme=tokyonight)
