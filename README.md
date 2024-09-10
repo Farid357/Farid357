@@ -18,7 +18,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farid357&layout=compact&theme=tokyonight)
 
 ## **Contacts**
-[![VK](https://img.shields.io/badge/-Vkontakte-090900?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/yusubov7)
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://web.telegram.org/k/#@Vadimovon)
 [![Discord](https://img.shields.io/badge/-Discord-090900?style=for-the-badge&logo=discord&logoColor=sky)](https://discordapp.com/users/Vadimovich#7939)
-[![Instagram](https://img.shields.io/badge/-Instagram-090900?style=for-the-badge&logo=instagram&logoColor=sky)](https://instagram.com/_yusubov_f?igshid=Mzc0YWU1OWY=)
